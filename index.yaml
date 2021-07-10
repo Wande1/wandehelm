@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebpp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-10T11:42:08.689956318Z"
+    description: A Helm chart for javawebapplication
+    digest: f86ee0f1a0d3d57183b5e8a2807e4ef5f7dc5e2854fb2f1dfa9dc616cb4fdc96
+    name: javawebpp
+    type: application
+    urls:
+    - https://wande1.github.io/wandehelm/javawebpp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-10T11:42:08.687927876Z"
